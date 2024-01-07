@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<link href = "Base.html" rel="import" />
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>This is home page</title>
+</head>
+<body>
+<h1>This  home page</h1>
+</body>
+</html>

@@ -1,0 +1,5 @@
+package com.example.SmartContactManager.dao;
+
+public interface UserRepository {
+
+}

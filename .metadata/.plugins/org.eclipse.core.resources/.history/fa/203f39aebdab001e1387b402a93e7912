@@ -1,0 +1,5 @@
+package com.example.SmartContactManager.entities;
+
+public class User {
+
+}
